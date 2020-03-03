@@ -1,0 +1,41 @@
+[
+  {
+    "name": "questions",
+    "url": "https://keep.google.com/u/0/#label/Questions"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/SanjayPJ?tab=repositories"
+  },
+  {
+    "name": "calendar",
+    "url": "https://calendar.google.com/"
+  },
+  {
+    "name": "todo",
+    "url": "https://keep.google.com/u/0/#label/TODO"
+  },
+  {
+    "name": "gmail",
+    "url": "https://mail.google.com"
+  },
+  {
+    "name": "drive",
+    "url": "https://drive.google.com"
+  },{
+    "name": "contacts",
+    "url": "https://contacts.google.com"
+  },
+  {
+    "name": "keep",
+    "url": "https://keep.google.com"
+  },
+  {
+    "name": "thoughts",
+    "url": "https://keep.google.com/u/0/#label/Thoughts"
+  },
+  {
+    "name": "youtube",
+    "url": "https://www.youtube.com"
+  }
+]

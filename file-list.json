@@ -1,0 +1,53 @@
+[
+  {
+    "name": "projects",
+    "dir": "C:\\Users\\sam\\Documents\\projects"
+  },
+  {
+    "name": "compressed",
+    "dir": "C:\\Users\\sam\\Downloads\\Compressed"
+  },
+  {
+    "name": "home",
+    "dir": "C:\\Users\\sam"
+  },
+  {
+    "name": "htdocs",
+    "dir": "C:\\xampp\\htdocs"
+  },
+  {
+    "name": "documents",
+    "dir": "C:\\Users\\sam\\Downloads\\Documents"
+  },
+  {
+    "name": "programs",
+    "dir": "C:\\Users\\sam\\Downloads\\Programs"
+  },
+  {
+    "name": "video",
+    "dir": "C:\\Users\\sam\\Downloads\\Video"
+  },
+  {
+    "name": "music",
+    "dir": "C:\\Users\\sam\\Downloads\\Music"
+  },
+  {
+    "name": "software",
+    "dir": "D:\\software"
+  },
+  {
+    "name": "books",
+    "dir": "D:\\books"
+  },
+  {
+    "name": "scripts",
+    "dir": "C:\\scripts"
+  },{
+    "name": "draw",
+    "dir": "C:\\Program Files\\draw.io\\draw.io.exe"
+  },
+  {
+    "name": "fonts",
+    "dir": "C:\\windows\\fonts"
+  }
+]
